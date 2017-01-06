@@ -1,0 +1,6 @@
+framework module Pods_happy_dns_p2c {
+  umbrella header "Pods-happy_dns_p2c-umbrella.h"
+
+  export *
+  module * { export * }
+}
